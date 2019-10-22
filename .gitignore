@@ -2,8 +2,9 @@
 # Carpetas de Unity
 # ===================================== #
 /Library/
-/[Tt]emp/
-/[Oo]bj/
+Library
+Temp
+/Obj/
 /[Bb]uild/
 /[Bb]uilds/
 /.[Vv][Ss][Cc]ode/
