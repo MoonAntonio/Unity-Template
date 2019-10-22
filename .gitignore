@@ -1,15 +1,12 @@
 # ===================================== #
 # Carpetas de Unity
 # ===================================== #
-/Library/
 Library
 Temp
-/Obj/
-/[Bb]uild/
-/[Bb]uilds/
+Obj/
 /.[Vv][Ss][Cc]ode/
 /.[Vv][Ss]/
-/Assets/AssetStoreTools*
+Assets/AssetStoreTools*
 
 # ===================================== #
 # Actualizacion de paquetes de Unity
