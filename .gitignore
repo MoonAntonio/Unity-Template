@@ -1,9 +1,10 @@
 # ===================================== #
 # Carpetas de Unity
 # ===================================== #
-Library
 Temp
-Obj/
+Library
+Obj
+obj
 /.[Vv][Ss][Cc]ode/
 /.[Vv][Ss]/
 Assets/AssetStoreTools*
