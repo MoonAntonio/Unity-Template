@@ -1,10 +1,12 @@
 # Unity Project Template
 [Github template repository](https://help.github.com/en/articles/creating-a-template-repository) for [Unity](https://unity.com/)
 
-There is a nice little tool (**Unity Template -> Setup Unity for Git**) that can be used to quickly clean up the repository if using different versions of Unity.
+Una pequeña herramienta (**Unity Template -> Setup Unity para Git**) que se puede usar para limpiar rápidamente el repositorio si se usan diferentes versiones de Unity.
 
-It double checks editor is set to force text, and visible meta files, it can also remove any of the packages added by Unity's upgrade process that you don't want (**some of these are added to help you**), then forces a re-serialization of all the meta files. The tool can then be used to remove itself.
+# ¿Qué hace?
 
-# Tested on
+Comprueba que el editor está configurado para forzar texto y meta archivos visibles, también puede eliminar cualquiera de los paquetes agregados por el proceso de actualización de Unity que no desea(**algunos de estos se agregan para ayudarlo**), luego fuerza una nueva serialización de todos los meta archivos. La herramienta se puede utilizar para eliminarse.
+
+# Testeado en
  - 2019.1
  - 2018.4
