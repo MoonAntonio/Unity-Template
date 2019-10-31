@@ -20,7 +20,7 @@ La carpeta temp, contiene dos archivos:
 
 ---
 
-Si se quieren usar, solo ponerlos en el archivo raiz del proyecto.
+Si se quieren usar, solo ponerlos en el archivo raiz del proyecto y renombrarlos sin el "!".
 
 ---
 
